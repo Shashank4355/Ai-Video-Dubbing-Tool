@@ -1,0 +1,19 @@
+.vs/
+*.pyc
+__pycache__/
+*.log
+*.tmp
+*.swp
+*.swo
+AppData/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+wav2lip_env/
+Wav2Lip/wav2lip_env/
